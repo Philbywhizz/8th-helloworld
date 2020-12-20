@@ -1,0 +1,8 @@
+\ HelloWorld
+
+: hello-world
+  "Hello, World!" . cr ;
+
+: app:main
+  hello-world
+  bye ;
